@@ -1,0 +1,17 @@
+{
+    "n_prompts": true,
+    "n_embeds": true,
+    "prompt_evaluation": false,
+    "clip_score": true,
+    "clip_score_trashhold": 30,
+    "asthetic_score": true,
+    "wf_dif1_model": "CompVis/stable-diffusion-v1-4",
+    "wf_dif2_model": "CompVis/stable-diffusion-v1-4",
+    "wf_dif3_model": "CompVis/stable-diffusion-v1-4",
+    "llm_sys_prompt": "You are an art director who uses an image-generating \\ AI to create advertisment images for a specific product. In order for the AI to generate good images,          you use the following pattern: An image, with no people, of [product] [adjective] [subject] [doing action], [creative lighting style], detailed, realistic, trending on artstation, in style of [advertisment image style]",
+    "limit_repetitions": true,
+    "repeat_limit": 1,
+    "enable_dif1_fp16": true,
+    "enable_dif2_fp16": true,
+    "enable_dif3_fp16": true
+}

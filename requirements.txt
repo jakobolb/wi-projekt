@@ -1,0 +1,22 @@
+bs4==0.0.2
+convert==0.1.2
+ctransformers==0.2.27
+diffusers==0.29.2
+langchain==0.2.7
+langchain-community==0.2.7
+langchain-core==0.2.13
+langchain-experimental==0.0.62
+langchain-text-splitters==0.2.2
+nbconvert==7.16.4
+nltk==3.8.1
+openai==1.35.13
+opencv-python==4.10.0.84
+python-dotenv #bug mit versionierung
+sam2 #bug mit versionierung
+simple-aesthetics-predictor #bug mit versionierung
+streamlit==1.36.0
+torch==2.4.0
+torchaudio==2.4.0
+torchvision==0.19.0
+transformers==4.44.2
+opencv-python==4.10.0.84
