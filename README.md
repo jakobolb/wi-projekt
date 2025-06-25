@@ -1,4 +1,7 @@
 # Wi-Projekt Generative Ad
+Im Rahmen eines Uni-Moduls haben Guido, Constantin, Tien, Jakob, David und ich dieses Projekt entwickelt. Es ist das Ergebnis intensiver Zusammenarbeit, gemeinsamer Ideen und vieler Stunden Arbeit.
+Die entwickelte Anwendung generiert personalisierte Werbebilder für angegebene Produkte, basierend auf den Instagram-Werbetracker-Daten des Nutzers.
+
 
 ## Umgebungsvariablen
 Um das Streamlit-Frontend dieses Repositories nutzen zu können, müssen die folgenden Umgebungsvariablen in der Datei Mainbuild/.env gesetzt werden:
